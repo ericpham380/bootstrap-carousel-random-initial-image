@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-carousel-random-initial-image",
+  "version": "1.0.0",
+  "description": "Building Bootstrap carousel with random initial image",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.16.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericpham380/bootstrap-carousel-random-initial-image.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "carousel"
+  ],
+  "author": "Eric Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericpham380/bootstrap-carousel-random-initial-image/issues"
+  },
+  "homepage": "https://github.com/ericpham380/bootstrap-carousel-random-initial-image#readme"
+}
